@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @iamziggi
+- 🌱 I’m currently learning frontend development
